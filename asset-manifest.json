@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d99ab69.chunk.css",
-    "main.js": "/static/js/main.0162ec9a.chunk.js",
-    "main.js.map": "/static/js/main.0162ec9a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c22280d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c22280d5.js.map",
-    "static/js/2.20e11699.chunk.js": "/static/js/2.20e11699.chunk.js",
-    "static/js/2.20e11699.chunk.js.map": "/static/js/2.20e11699.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7608757e341f332d5a61e7fdc8ad9fe5.js": "/precache-manifest.7608757e341f332d5a61e7fdc8ad9fe5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5d99ab69.chunk.css.map": "/static/css/main.5d99ab69.chunk.css.map"
+    "main.css": "/semant/static/css/main.5d99ab69.chunk.css",
+    "main.js": "/semant/static/js/main.0162ec9a.chunk.js",
+    "main.js.map": "/semant/static/js/main.0162ec9a.chunk.js.map",
+    "runtime-main.js": "/semant/static/js/runtime-main.1493f82c.js",
+    "runtime-main.js.map": "/semant/static/js/runtime-main.1493f82c.js.map",
+    "static/js/2.20e11699.chunk.js": "/semant/static/js/2.20e11699.chunk.js",
+    "static/js/2.20e11699.chunk.js.map": "/semant/static/js/2.20e11699.chunk.js.map",
+    "index.html": "/semant/index.html",
+    "precache-manifest.627350f2a77f50b113fb5b9943aa4e61.js": "/semant/precache-manifest.627350f2a77f50b113fb5b9943aa4e61.js",
+    "service-worker.js": "/semant/service-worker.js",
+    "static/css/main.5d99ab69.chunk.css.map": "/semant/static/css/main.5d99ab69.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c22280d5.js",
+    "static/js/runtime-main.1493f82c.js",
     "static/js/2.20e11699.chunk.js",
     "static/css/main.5d99ab69.chunk.css",
     "static/js/main.0162ec9a.chunk.js"
