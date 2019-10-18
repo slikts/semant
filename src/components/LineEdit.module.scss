@@ -1,0 +1,22 @@
+.LineEdit {
+  color: #f06;
+}
+
+.term {
+  font-weight: 500;
+}
+
+.textarea {
+  resize: none;
+  padding: 0;
+  border-style: none;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: inherit;
+  overflow: hidden;
+  width: 100%;
+  &:focus {
+    outline: none;
+  }
+  display: block;
+}

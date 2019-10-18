@@ -1,0 +1,23 @@
+- # normalization
+  - aka data normalization
+    - reduction of data to a canonical form
+      - aka canonicalization
+      - aka standardization
+  - vs denormalization
+- # generalization
+  - vs specialization
+  - vs abstraction
+    - often used together
+- # abstraction
+  - emphasis on idea, qualities and properties rather than particulars
+  - suppression of (irrelevant) detail
+  - vs concretion
+- # Firefox
+  - ## SpiderMonkey engine
+    - ### IonMonkey
+      - added in 2012
+      - since Firefox 18
+      - optimizing JIT compiler
+    - ### JaegerMonkey
+    - ### OdinMonkey
+    - ### TraceMonkey
